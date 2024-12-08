@@ -1,5 +1,9 @@
+# Simple Calculator Program
+# Created for testing GitHub functionality
+
 def calculator():
-    print("Simple Calculator")
+    print("Welcome to the Simple Calculator!")
+    print("================================")
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
@@ -37,3 +41,4 @@ def calculator():
 
 if __name__ == "__main__":
     print(calculator())
+    print("\nThank you for using the calculator!")
